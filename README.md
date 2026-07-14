@@ -225,7 +225,7 @@ Aliasing (AS): Assigned meaningful names to columns for improved readability.
 **Project Description:**
 This project demonstrates the use of SQL Server to query and analyse employee data. It covers fundamental SQL concepts, including data retrieval, filtering, string manipulation, aggregate functions, sorting, and table creation to answer common business questions and strengthen SQL querying skills.
 
-**Technology used: **
+**Technology used:**
 
 Microsoft SQL Server
 
