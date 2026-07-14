@@ -197,7 +197,7 @@ Portfolio Risk: Identified loan officers managing the highest outstanding arrear
 
 # Project 5
 
-**Title:** Employee Data Extraction
+**Title:** Employee Data Analysis Using SQL Server
 
 **SQL Code:** [Employee Data-SQL Interogation](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Employee_Data.SQL)
 
