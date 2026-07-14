@@ -21,9 +21,8 @@ Revenue by Sales Channel: Analyses revenue generated across different sales chan
 
 Revenue by Region: Provides a geographical overview of revenue performance across global regions.
 
-Interactive Features
+**Interactive Features**
 The dashboard includes dynamic slicers and a timeline that allow users to filter the analysis by: Sales Date (Month and Year), Region, and Product Category.
-
 
 
 **Key findings**:
@@ -94,6 +93,7 @@ Power BI Formatting Tools: Custom themes, card formatting, shapes, shadows, and 
 This project presents an interactive Retail Sales Performance Analysis Dashboard developed in Microsoft Power BI to evaluate sales performance across regions, product categories, customer segments, payment methods, and shipping modes. The dashboard provides a comprehensive view of key sales and profitability metrics, enabling stakeholders to monitor business performance and identify trends that support informed decision-making.
 Additionally, the dashboard provides valuable insights that help uncover opportunities to improve operational efficiency and enhance sales strategies.
 The dashboard includes the following features:
+
 Sales by Region: Compares sales performance across different geographical regions.
 
 Sales by Category and Sub-Category: Highlights the contribution of product categories and sub-categories to overall sales.
@@ -108,11 +108,13 @@ Profit by Year and Ship Mode: Compares profit performance across shipping method
 
 Profit by Year and Quarter: Tracks quarterly profit trends to identify changes in business performance over time.
 
-Interactive Features
+**Interactive Features**
+
 Region: Click on a Region in the slicer to dynamically filter the dashboard and analyse sales, profit, customer segments, payment methods, and shipping performance for the selected region.
 This interactive functionality enables users to explore the data from different perspectives, supporting deeper analysis and more informed business decisions.
 
 **Key findings:**
+
 Regional Performance: Identified the West region as the highest revenue contributor, highlighting opportunities to replicate successful sales strategies across other regions.
 
 Product Performance: Revealed Technology as the leading product category in sales, supporting informed inventory planning and product investment decisions.
@@ -132,6 +134,7 @@ Profit Trends: Identified consistent growth in quarterly profit over the reporti
 Title: [Loan Portfolio Performance Dashboard](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Loan_Portfolio_Performance_Dashboard.pbix)
 
 **Tools Used:**
+
 Microsoft Power BI Desktop: Dashboard development and data visualization. 
 
 Power Query Editor: Data cleaning, transformation, and formatting. 
@@ -147,7 +150,6 @@ Power BI Formatting Tools: Custom themes, card formatting, shapes, shadows, and 
 
 **Project Description:**
 This project showcases an interactive Power BI dashboard developed to analyse loan portfolio performance using lending data. The dashboard provides insights into total loan disbursement, total clients, individual loans, outstanding arrears, loan performance by city, product category, loan officer, urban/rural location, and monthly lending trends. Interactive slicers and dynamic visualisations enable users to explore portfolio performance and support data-driven decision-making.
-
 The dashboard includes the following features:
 
 Loan Disbursement Overview: Displays key performance indicators (KPIs), including Total Disbursement, Clients Served, Individual Loans, and Outstanding Arrears. 
@@ -164,7 +166,8 @@ Disbursement by Urban/Rural Location: Compares loan disbursement between urban a
 
 Outstanding Arrears by Loan Officer: Identifies loan officers with the highest outstanding arrears to support portfolio risk monitoring. 
 
-Interactive Features
+**Interactive Features**
+
 Year: Select a year to dynamically filter all dashboard visuals and analyse lending performance for a specific period.
 
 City: Filter the dashboard to analyse loan disbursement and portfolio performance for a selected city. 
@@ -176,6 +179,7 @@ Product Category: Explore loan disbursement across different loan products.
 Urban/Rural: Compare lending performance between urban and rural locations.
 
 **Key findings:**
+
 Loan Disbursement: Identified the highest-performing cities in terms of loan disbursement, helping management prioritise high-demand markets and optimise lending strategies. 
 
 Product Performance: Revealed Individual Loans as the largest contributor to the loan portfolio, supporting strategic product development and resource allocation. 
