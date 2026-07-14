@@ -2,11 +2,12 @@
 
 # Project 1
 
- Title: [Apple Global Sales Dashboard](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Apple_Global_Sales_Dashboard.xlsx)
+ **Title:** [Apple Global Sales Dashboard](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Apple_Global_Sales_Dashboard.xlsx)
 
 **Tools Used**: Microsoft Excel(Filters, PivotTables, PivotCharts, Conditional Formatting, Timeline Slicer, Slicers, Bar & Column Charts, Shapes & Icons, Progress Chart, Donut & Pie Charts, Gridline Removal)
 
-**Project Description**: This project presents an interactive Apple Global Sales Dashboard developed in Microsoft Excel to analyse global sales performance across products, regions, sales channels, and time periods. The dashboard consolidates key sales metrics into a single, user-friendly interface, enabling stakeholders to monitor performance, identify sales trends, and compare results across multiple business dimensions.
+**Project Description**:
+This project presents an interactive Apple Global Sales Dashboard developed in Microsoft Excel to analyse global sales performance across products, regions, sales channels, and time periods. The dashboard consolidates key sales metrics into a single, user-friendly interface, enabling stakeholders to monitor performance, identify sales trends, and compare results across multiple business dimensions.
 The dashboard provides a comprehensive overview of revenue distribution, product performance, regional sales, and customer purchasing patterns through dynamic visualisations and interactive filtering capabilities. Addtionally, it is designed to support data-driven decision-making by allowing users to explore sales data from different perspectives and uncover meaningful business insights. The dashboard includes the following features:
 
 Top 10 Units Sold by Product: Highlights the best-performing Apple products based on the total number of units sold.
@@ -41,11 +42,12 @@ Sales Channel Analysis: Compared revenue across sales channels to evaluate their
 
 # Project 2
 
-Title: [Customer Profile and Marketing Performance Dashboard](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Customer_Profile_and_Marketing_Performance.xlsx)
+**Title:** [Customer Profile and Marketing Performance Dashboard](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Customer_Profile_and_Marketing_Performance.xlsx)
 
 **Tools Used:** Microsoft Excel(Filters, Data Cleaning, PivotTables, PivotCharts, Conditional Formatting, Slicers, Dashboard Design and Formatting, Shapes & Icons, Data visualisation, Gridline Removal)
 
-**Project Description:** This project presents an interactive Customer Profile and Marketing Performance Dashboard developed in Microsoft Excel to analyse customer demographics, marketing campaign performance, and user engagement across multiple channels. The dashboard provides a comprehensive overview of customer behaviour, purchase patterns, and marketing effectiveness, enabling stakeholders to evaluate campaign performance and make informed, data-driven decisions.
+**Project Description:** 
+This project presents an interactive Customer Profile and Marketing Performance Dashboard developed in Microsoft Excel to analyse customer demographics, marketing campaign performance, and user engagement across multiple channels. The dashboard provides a comprehensive overview of customer behaviour, purchase patterns, and marketing effectiveness, enabling stakeholders to evaluate campaign performance and make informed, data-driven decisions.
 The dashboard combines key customer and marketing metrics into a single interactive interface, allowing users to identify trends in customer age distribution, purchase frequency, device usage, advertisement engagement, and traffic sources. Through dynamic visualisations and interactive filters, users can explore the data from different perspectives and gain valuable insights into customer behaviour and marketing performance.
 Dashboard includes the following features:
 
@@ -75,7 +77,7 @@ Device & Traffic Analysis: Demonstrated differences in customer behaviour across
 
 
 # Project 3
-Title: [Retail Sales Performance Analysis](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Retail_Sales_Performance_Analysis.pbix)
+**Title:** [Retail Sales Performance Analysis](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Retail_Sales_Performance_Analysis.pbix)
 
 **Tools Used:** 
 Microsoft Power BI Desktop: Dashboard development and data visualization. 
@@ -131,7 +133,7 @@ Profit Trends: Identified consistent growth in quarterly profit over the reporti
 
 # Project 4
 
-Title: [Loan Portfolio Performance Dashboard](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Loan_Portfolio_Performance_Dashboard.pbix)
+**Title:** [Loan Portfolio Performance Dashboard](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Loan_Portfolio_Performance_Dashboard.pbix)
 
 **Tools Used:**
 
@@ -191,3 +193,40 @@ Portfolio Risk: Identified loan officers managing the highest outstanding arrear
 
 **Dashboard Overview:**
 ![Loan_Portfolio_Performance.png](Loan_Portfolio_Performance.png)
+
+
+# Project 5
+
+**Title:** Employee Data Extraction
+
+**SQL Code:** [Employee Data-SQL Interogation](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Employee_Data.SQL)
+
+**SQL Skills Used:**
+
+Data Retrieval (SELECT): Queried and extracted specific information from the employee database. 
+
+Data Filtering (WHERE, BETWEEN, LIKE): Filtered records based on specific conditions, ranges, and text patterns. 
+
+Data Aggregation (COUNT): Calculated employee totals to support data analysis. 
+
+String Functions (UPPER, LEFT, CONCAT, CHARINDEX): Manipulated and formatted text data for reporting and analysis.
+
+Date Functions (GETDATE): Retrieved the current system date. 
+
+Sorting Data (ORDER BY): Organised query results in ascending or descending order.
+ 
+Limiting Results (TOP): Retrieved the top records based on specified criteria. 
+ 
+Table Creation (SELECT INTO): Created a new table by copying the structure and data from an existing table. 
+
+Aliasing (AS): Assigned meaningful names to columns for improved readability.
+
+
+**Project Description:**
+This project demonstrates the use of SQL Server to query and analyse employee data. It covers fundamental SQL concepts, including data retrieval, filtering, string manipulation, aggregate functions, sorting, and table creation to answer common business questions and strengthen SQL querying skills.
+
+Technology used: 
+
+Microsoft SQL Server
+
+SQL Server Management Studio (SSMS)
