@@ -78,7 +78,16 @@ Device & Traffic Analysis: Demonstrated differences in customer behaviour across
 # Project 3
 Title: [Retail Sales Performance Analysis](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Retail_Sales_Performance_Analysis.pbix)
 
-**Tools Used:** Microsoft Power BI (Power Query, Slicer, KPI Cards, Clustered Bar Chart, Donut Chart, Stacked Column Chart, Area Chart, Data Visualisation, Interactive Dashboard Design)
+**Tools Used:** 
+Microsoft Power BI Desktop: Dashboard development and data visualization. 
+
+Power Query Editor: Data cleaning, transformation, and formatting. 
+
+Data Modelling: Establishing relationships and optimizing the data model. 
+
+Power BI Visualizations: Bar charts, donut charts, Stacked Column charts, Arrea Chart, and slicers. 
+
+Power BI Formatting Tools: Custom themes, card formatting, shapes, shadows, and layout design. 
 
 **Project Description:**
 
@@ -116,3 +125,68 @@ Profit Trends: Identified consistent growth in quarterly profit over the reporti
 
 **Dashboard Overview:**
 ![Retail_Sales_Performance_Analysis.png](Retail_Sales_Performance_Analysis.png)
+
+
+# Project 4
+
+Title: [Loan Portfolio Performance Dashboard](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Loan_Portfolio_Performance_Dashboard.pbix)
+
+**Tools Used:**
+Microsoft Power BI Desktop: Dashboard development and data visualization. 
+
+Power Query Editor: Data cleaning, transformation, and formatting. 
+
+DAX (Data Analysis Expressions): Creation of calculated measures and KPIs. 
+
+Data Modelling: Establishing relationships and optimizing the data model. 
+
+Power BI Visualizations: Bar charts, donut charts, line charts, KPI cards, and slicers. 
+
+Power BI Formatting Tools: Custom themes, card formatting, shapes, shadows, and layout design. 
+
+
+**Project Description:**
+This project showcases an interactive Power BI dashboard developed to analyse loan portfolio performance using lending data. The dashboard provides insights into total loan disbursement, total clients, individual loans, outstanding arrears, loan performance by city, product category, loan officer, urban/rural location, and monthly lending trends. Interactive slicers and dynamic visualisations enable users to explore portfolio performance and support data-driven decision-making.
+
+The dashboard includes the following features:
+
+Loan Disbursement Overview: Displays key performance indicators (KPIs), including Total Disbursement, Clients Served, Individual Loans, and Outstanding Arrears. 
+
+Disbursement by City: Compares loan disbursement across different cities to identify high-performing lending locations. 
+
+Disbursement by Product Category: Highlights the contribution of each loan product category to the overall loan portfolio. 
+
+Disbursement by Loan Officer: Evaluates loan disbursement performance across individual loan officers. 
+
+Monthly Loan Disbursement Trend: Tracks monthly lending activity to identify trends and seasonal patterns.
+
+Disbursement by Urban/Rural Location: Compares loan disbursement between urban and rural areas to support geographical analysis.
+
+Outstanding Arrears by Loan Officer: Identifies loan officers with the highest outstanding arrears to support portfolio risk monitoring. 
+
+Interactive Features
+Year: Select a year to dynamically filter all dashboard visuals and analyse lending performance for a specific period.
+
+City: Filter the dashboard to analyse loan disbursement and portfolio performance for a selected city. 
+
+Loan Officer: View the performance and outstanding arrears of individual loan officers. 
+
+Product Category: Explore loan disbursement across different loan products.
+
+Urban/Rural: Compare lending performance between urban and rural locations.
+
+**Key findings:**
+Loan Disbursement: Identified the highest-performing cities in terms of loan disbursement, helping management prioritise high-demand markets and optimise lending strategies. 
+
+Product Performance: Revealed Individual Loans as the largest contributor to the loan portfolio, supporting strategic product development and resource allocation. 
+
+Loan Officer Performance: Identified top-performing loan officers based on loan disbursement, enabling performance benchmarking and targeted staff development.
+
+Geographical Analysis: Demonstrated variations in lending between urban and rural locations, providing insights to support location-specific lending and market expansion strategies. 
+
+Monthly Lending Trends: Highlighted changes in monthly loan disbursement, enabling the business to monitor lending activity, identify seasonal trends, and improve planning. 
+
+Portfolio Risk: Identified loan officers managing the highest outstanding arrears, supporting proactive credit risk management and improved loan recovery efforts.
+
+**Dashboard Overview:**
+![Loan_Portfolio_Performance.png](Loan_Portfolio_Performance.png)
