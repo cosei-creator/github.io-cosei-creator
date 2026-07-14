@@ -167,16 +167,13 @@ Disbursement by Urban/Rural Location: Compares loan disbursement between urban a
 Outstanding Arrears by Loan Officer: Identifies loan officers with the highest outstanding arrears to support portfolio risk monitoring. 
 
 **Interactive Features**
+The dashboard includes interactive slicers that enable users to filter the data and explore loan portfolio performance across multiple business dimensions:
+•	Year 
+•	City 
+•	Loan Officer 
+•	Product Category 
+•	Urban/Rural
 
-Year: Select a year to dynamically filter all dashboard visuals and analyse lending performance for a specific period.
-
-City: Filter the dashboard to analyse loan disbursement and portfolio performance for a selected city. 
-
-Loan Officer: View the performance and outstanding arrears of individual loan officers. 
-
-Product Category: Explore loan disbursement across different loan products.
-
-Urban/Rural: Compare lending performance between urban and rural locations.
 
 **Key findings:**
 
