@@ -27,6 +27,7 @@ The dashboard includes dynamic slicers and a timeline that allow users to filter
 
 
 **Key findings**:
+
 Regional Performance: Identified the highest-performing regions and countries based on total revenue and where performance could be improved.
 
 Top-Selling Products: Highlighted the Apple products with the highest units sold, providing valuable insights into customer demand and supporting inventory and product planning.
@@ -63,6 +64,7 @@ Offer Responses by Marketing Channel: Evaluates customer engagement across Organ
 
 
 **Key findings:** 
+
 Customer Engagement: Identified desktop users as the most engaged customer segment, indicating that desktop-focused campaigns could maximise customer engagement and conversions.
 
 Customer Demographics: Revealed the age groups with the highest purchase frequency, enabling more targeted marketing and personalised customer experiences.
@@ -80,6 +82,7 @@ Device & Traffic Analysis: Demonstrated differences in customer behaviour across
 **Title:** [Retail Sales Performance Analysis](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Retail_Sales_Performance_Analysis.pbix)
 
 **Tools Used:** 
+
 Microsoft Power BI Desktop: Dashboard development and data visualization. 
 
 Power Query Editor: Data cleaning, transformation, and formatting. 
