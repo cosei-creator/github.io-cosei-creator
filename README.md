@@ -230,3 +230,51 @@ This project demonstrates the use of SQL Server to query and analyse employee da
 Microsoft SQL Server
 
 SQL Server Management Studio (SSMS)
+
+
+# Project 6
+
+**Title:** Loan Portfolio Analysis Using SQL Server
+
+**SQL Code:** [Loan Portfolio Data Interogation-SQL](https://github.com/cosei-creator/github.io-cosei-creator/blob/main/Loan_Portfolio_Analysis.sql)
+
+**SQL Skills Used:**
+
+ Data Retrieval (SELECT): Queried and extracted relevant loan portfolio information from the database. 
+ 
+Data Filtering (WHERE, LIKE, BETWEEN): Applied filters to retrieve records based on specific conditions, text patterns, and date ranges. 
+ 
+Data Aggregation (SUM, COUNT, AVG): Calculated totals, averages, and record counts to analyse loan performance and portfolio trends. 
+
+Data Grouping (GROUP BY): Organised data into meaningful groups to summarise loan disbursements by branch, credit officer, and product category. 
+
+Group Filtering (HAVING): Filtered grouped results to identify branches meeting specific performance criteria. 
+
+Data Sorting (ORDER BY): Organised query results in ascending and descending order for easier analysis and reporting. 
+
+Limiting Results (TOP): Retrieved the highest-ranking records, such as the top loan disbursements. 	Date Functions (YEAR, MONTH, DATENAME): Extracted and analysed year and month information to identify lending trends over time. 
+
+String Functions (UPPER, LEFT, CONCAT): Manipulated and formatted text data for improved readability and reporting. 
+
+Conditional Logic (CASE): Classified loans into risk categories based on outstanding loan arrears.
+
+Window Functions (RANK, ROW_NUMBER): Ranked Credit Officers based on loan disbursement performance and identified the top performers within each branch. 
+
+Common Table Expressions (CTEs): Simplified complex queries and performed advanced analysis on branch loan disbursements.
+
+Subqueries: Compared individual loan amounts against the overall average to identify above-average loan disbursements.
+
+Aliasing (AS): Assigned meaningful names to calculated columns to improve query readability.
+
+Table Referencing (FROM): Specified the database tables used as the source of data for analysis.
+
+
+**Project Description:**
+
+This project demonstrates the use of Microsoft SQL Server to analyse a loan portfolio database using SQL queries. It applies a range of SQL techniques, including data retrieval, filtering, aggregation, string manipulation, date functions, window functions, common table expressions (CTEs), subqueries, and conditional logic to answer business questions and generate meaningful insights into loan portfolio performance, branch performance, credit officer performance, product categories, and lending trends.
+
+**Technology used:** 
+
+SQL server
+
+SQL Server Management Studio (SSMS)
